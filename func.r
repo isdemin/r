@@ -8,7 +8,6 @@ Log=function(line1='', filename=paste0(gsub(':','-',Sys.time()),'.log') ){
   }
 }
 
-a.number=19
 
 
 
